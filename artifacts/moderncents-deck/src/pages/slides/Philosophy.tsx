@@ -1,9 +1,11 @@
+import Logo from "../../components/Logo";
+
 export default function Philosophy() {
   return (
     <div className="w-screen h-screen overflow-hidden relative bg-bg text-primary font-body flex flex-col justify-between px-[7vw] py-[7vh]">
       <div className="flex items-center justify-between text-[1vw] tracking-[0.32em] uppercase text-muted">
         <span>02 — Our philosophy</span>
-        <span className="text-primary">Modern Cents</span>
+        <Logo className="h-[2.4vw] w-[2.4vw] rounded-sm object-cover" />
       </div>
 
       <div className="flex flex-col gap-[4vh] max-w-[78vw]">

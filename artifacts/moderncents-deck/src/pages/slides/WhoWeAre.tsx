@@ -1,9 +1,11 @@
+import Logo from "../../components/Logo";
+
 export default function WhoWeAre() {
   return (
     <div className="w-screen h-screen overflow-hidden relative bg-bg text-primary font-body flex flex-col justify-between px-[7vw] py-[7vh]">
       <div className="flex items-center justify-between text-[1vw] tracking-[0.32em] uppercase text-muted">
         <span>01 — Who we are</span>
-        <span className="text-primary">Modern Cents</span>
+        <Logo className="h-[2.4vw] w-[2.4vw] rounded-sm object-cover" />
       </div>
 
       <div className="grid grid-cols-12 gap-[3vw] items-end mt-[2vh]">
@@ -13,7 +15,7 @@ export default function WhoWeAre() {
           </h2>
           <div className="h-[1px] w-[10vw] bg-accent" />
           <p className="font-body font-light text-[1.6vw] leading-relaxed text-muted text-pretty max-w-[40vw]">
-            Founded by Andrea Thompson, CFP®, Modern Cents serves Canadian and cross-border households with planning grounded in real life — not product sales, not commissions, not noise.
+            Modern Cents serves Canadian and cross-border households with CFP®-led planning grounded in real life — not product sales, not commissions, not noise.
           </p>
         </div>
 

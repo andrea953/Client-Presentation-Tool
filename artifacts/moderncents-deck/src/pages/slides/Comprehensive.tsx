@@ -1,4 +1,5 @@
 import lifestyleAdaptive from "@assets/moderncents/lifestyle-adaptive.jpg";
+import Logo from "../../components/Logo";
 
 export default function Comprehensive() {
   return (
@@ -19,7 +20,7 @@ export default function Comprehensive() {
       <div className="w-[56%] h-full flex flex-col justify-between px-[5vw] py-[7vh]">
         <div className="flex items-center justify-between text-[1vw] tracking-[0.32em] uppercase text-muted">
           <span>04 — How we work</span>
-          <span className="text-primary">Modern Cents</span>
+          <Logo className="h-[2.4vw] w-[2.4vw] rounded-sm object-cover" />
         </div>
 
         <div className="flex flex-col gap-[3vh]">

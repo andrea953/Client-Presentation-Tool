@@ -1,9 +1,11 @@
+import Logo from "../../components/Logo";
+
 export default function LetsTalk() {
   return (
     <div className="w-screen h-screen overflow-hidden relative bg-bg text-primary font-body flex flex-col justify-between px-[7vw] py-[7vh]">
       <div className="flex items-center justify-between text-[1vw] tracking-[0.32em] uppercase text-muted">
         <span>09 — Let&rsquo;s talk</span>
-        <span className="text-primary">Modern Cents</span>
+        <Logo className="h-[2.4vw] w-[2.4vw] rounded-sm object-cover" />
       </div>
 
       <div className="grid grid-cols-12 gap-[3vw] items-end">
@@ -38,7 +40,7 @@ export default function LetsTalk() {
 
       <div className="flex items-center justify-between text-[0.9vw] text-muted font-body tracking-wide">
         <div className="flex items-center gap-[0.8vw]">
-          <div className="w-[1vw] h-[1vw] rounded-full bg-accent" />
+          <Logo className="h-[1.8vw] w-[1.8vw] rounded-sm object-cover" />
           <span className="text-primary font-medium tracking-[0.32em] uppercase">Modern Cents</span>
         </div>
         <span>10 / 10</span>
