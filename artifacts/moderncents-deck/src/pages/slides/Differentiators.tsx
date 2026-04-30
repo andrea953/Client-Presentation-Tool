@@ -58,7 +58,7 @@ export default function Differentiators() {
 
       <div className="flex items-center justify-between text-[0.9vw] text-muted font-body tracking-wide">
         <span>moderncents.ca</span>
-        <span>04 / 10</span>
+        <span>04 / 09</span>
       </div>
     </div>
   );

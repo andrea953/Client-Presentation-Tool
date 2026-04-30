@@ -52,7 +52,7 @@ export default function CrossBorder() {
 
       <div className="flex items-center justify-between text-[0.9vw] text-muted font-body tracking-wide">
         <span>moderncents.ca</span>
-        <span>08 / 10</span>
+        <span>08 / 09</span>
       </div>
     </div>
   );

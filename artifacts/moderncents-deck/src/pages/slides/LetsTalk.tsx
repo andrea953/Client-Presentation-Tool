@@ -43,7 +43,7 @@ export default function LetsTalk() {
           <Logo className="h-[1.8vw] w-[1.8vw] rounded-sm object-cover" />
           <span className="text-primary font-medium tracking-[0.32em] uppercase">Modern Cents</span>
         </div>
-        <span>10 / 10</span>
+        <span>09 / 09</span>
       </div>
     </div>
   );

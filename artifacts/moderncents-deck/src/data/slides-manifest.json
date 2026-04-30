@@ -64,16 +64,8 @@
     "speakerNotes": ""
   },
   {
-    "id": "4853a2da-3976-4e63-ac77-54d5e0d110f4",
-    "position": 9,
-    "filepath": "src/pages/slides/Testimonial.tsx",
-    "title": "Client testimonial",
-    "description": "Laura, a cross-border comprehensive client, on the planning experience.",
-    "speakerNotes": ""
-  },
-  {
     "id": "a5ecaa7f-e23b-42ef-819a-9ca50461bc72",
-    "position": 10,
+    "position": 9,
     "filepath": "src/pages/slides/LetsTalk.tsx",
     "title": "Let's talk",
     "description": "Closing call to action: complimentary 30-minute conversation, contact details.",

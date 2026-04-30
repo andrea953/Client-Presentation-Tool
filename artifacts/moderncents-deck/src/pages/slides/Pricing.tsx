@@ -99,7 +99,7 @@ export default function Pricing() {
 
       <div className="flex items-center justify-between text-[0.9vw] text-muted font-body tracking-wide">
         <span>moderncents.ca</span>
-        <span>07 / 10</span>
+        <span>07 / 09</span>
       </div>
     </div>
   );
