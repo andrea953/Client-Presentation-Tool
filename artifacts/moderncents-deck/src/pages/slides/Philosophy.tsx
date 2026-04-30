@@ -21,7 +21,7 @@ export default function Philosophy() {
 
       <div className="flex items-center justify-between text-[0.9vw] text-muted font-body tracking-wide">
         <span>moderncents.ca</span>
-        <span>03 / 09</span>
+        <span>03 / 10</span>
       </div>
     </div>
   );

@@ -2,7 +2,7 @@ export default function Testimonial() {
   return (
     <div className="w-screen h-screen overflow-hidden relative bg-bg text-primary font-body flex flex-col justify-between px-[8vw] py-[7vh]">
       <div className="flex items-center justify-between text-[1vw] tracking-[0.32em] uppercase text-muted">
-        <span>07 — In their words</span>
+        <span>08 — In their words</span>
         <span className="text-primary">Modern Cents</span>
       </div>
 
@@ -22,7 +22,7 @@ export default function Testimonial() {
 
       <div className="flex items-center justify-between text-[0.9vw] text-muted font-body tracking-wide">
         <span>moderncents.ca</span>
-        <span>08 / 09</span>
+        <span>09 / 10</span>
       </div>
     </div>
   );

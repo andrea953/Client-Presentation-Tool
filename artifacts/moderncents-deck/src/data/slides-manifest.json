@@ -48,8 +48,16 @@
     "speakerNotes": ""
   },
   {
-    "id": "8c90e6ce-143a-45de-b72f-3f25bf58ecae",
+    "id": "6a5b95b1-76cb-44f6-a3ad-2a098253c895",
     "position": 7,
+    "filepath": "src/pages/slides/Pricing.tsx",
+    "title": "Pricing",
+    "description": "Transparent flat-fee pricing for every engagement. Source: moderncents.ca/pricing.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "8c90e6ce-143a-45de-b72f-3f25bf58ecae",
+    "position": 8,
     "filepath": "src/pages/slides/CrossBorder.tsx",
     "title": "Cross-border specialty",
     "description": "Coordinated planning across RRSPs, 401(k)s, IRAs, CPP, OAS, and Social Security.",
@@ -57,7 +65,7 @@
   },
   {
     "id": "4853a2da-3976-4e63-ac77-54d5e0d110f4",
-    "position": 8,
+    "position": 9,
     "filepath": "src/pages/slides/Testimonial.tsx",
     "title": "Client testimonial",
     "description": "Laura, a cross-border comprehensive client, on working with Andrea Thompson.",
@@ -65,7 +73,7 @@
   },
   {
     "id": "a5ecaa7f-e23b-42ef-819a-9ca50461bc72",
-    "position": 9,
+    "position": 10,
     "filepath": "src/pages/slides/LetsTalk.tsx",
     "title": "Let's talk",
     "description": "Closing call to action: complimentary 30-minute conversation, contact details.",

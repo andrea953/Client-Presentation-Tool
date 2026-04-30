@@ -2,7 +2,7 @@ export default function LetsTalk() {
   return (
     <div className="w-screen h-screen overflow-hidden relative bg-bg text-primary font-body flex flex-col justify-between px-[7vw] py-[7vh]">
       <div className="flex items-center justify-between text-[1vw] tracking-[0.32em] uppercase text-muted">
-        <span>08 — Let&rsquo;s talk</span>
+        <span>09 — Let&rsquo;s talk</span>
         <span className="text-primary">Modern Cents</span>
       </div>
 
@@ -41,7 +41,7 @@ export default function LetsTalk() {
           <div className="w-[1vw] h-[1vw] rounded-full bg-accent" />
           <span className="text-primary font-medium tracking-[0.32em] uppercase">Modern Cents</span>
         </div>
-        <span>09 / 09</span>
+        <span>10 / 10</span>
       </div>
     </div>
   );

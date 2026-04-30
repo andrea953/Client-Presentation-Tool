@@ -2,7 +2,7 @@ export default function CrossBorder() {
   return (
     <div className="w-screen h-screen overflow-hidden relative bg-bg text-primary font-body flex flex-col justify-between px-[7vw] py-[7vh]">
       <div className="flex items-center justify-between text-[1vw] tracking-[0.32em] uppercase text-muted">
-        <span>06 — Cross-border specialty</span>
+        <span>07 — Cross-border specialty</span>
         <span className="text-primary">Modern Cents</span>
       </div>
 
@@ -50,7 +50,7 @@ export default function CrossBorder() {
 
       <div className="flex items-center justify-between text-[0.9vw] text-muted font-body tracking-wide">
         <span>moderncents.ca</span>
-        <span>07 / 09</span>
+        <span>08 / 10</span>
       </div>
     </div>
   );
