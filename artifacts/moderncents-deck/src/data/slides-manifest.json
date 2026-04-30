@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "f78cb462-af5b-46cf-a16e-21b533e85a5b",
+    "position": 1,
+    "filepath": "src/pages/slides/Title.tsx",
+    "title": "Title",
+    "description": "Cover slide introducing Modern Cents with brand mark, lead message, and lifestyle image.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f50a786d-8939-482f-8366-ea221fb04e4e",
+    "position": 2,
+    "filepath": "src/pages/slides/WhoWeAre.tsx",
+    "title": "Who we are",
+    "description": "A women-led, advice-only firm with cross-border focus and CFP credentials.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "c0b79293-1b47-4072-b71f-3f857a51af50",
+    "position": 3,
+    "filepath": "src/pages/slides/Philosophy.tsx",
+    "title": "Our philosophy",
+    "description": "Plans bend with life. The deck's belief statement.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "8f9b2db5-fc8e-4589-9654-c0c0e340d032",
+    "position": 4,
+    "filepath": "src/pages/slides/Differentiators.tsx",
+    "title": "What makes us different",
+    "description": "Four pillars: independence, adaptive delivery, cross-border depth, women-led.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "c8f1e907-57d6-469d-91c5-855b57595de6",
+    "position": 5,
+    "filepath": "src/pages/slides/Comprehensive.tsx",
+    "title": "Comprehensive Planning",
+    "description": "Flagship engagement: ongoing relationship covering every area of household finances.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "af0a57e6-6fa9-40b9-bc68-cd62625abe20",
+    "position": 6,
+    "filepath": "src/pages/slides/Engagements.tsx",
+    "title": "Other engagements",
+    "description": "Ad-hoc consultations, project-based, wealth foundations, and retirement planning.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "8c90e6ce-143a-45de-b72f-3f25bf58ecae",
+    "position": 7,
+    "filepath": "src/pages/slides/CrossBorder.tsx",
+    "title": "Cross-border specialty",
+    "description": "Coordinated planning across RRSPs, 401(k)s, IRAs, CPP, OAS, and Social Security.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "4853a2da-3976-4e63-ac77-54d5e0d110f4",
+    "position": 8,
+    "filepath": "src/pages/slides/Testimonial.tsx",
+    "title": "Client testimonial",
+    "description": "Laura, a cross-border comprehensive client, on working with Andrea Thompson.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a5ecaa7f-e23b-42ef-819a-9ca50461bc72",
+    "position": 9,
+    "filepath": "src/pages/slides/LetsTalk.tsx",
+    "title": "Let's talk",
+    "description": "Closing call to action: complimentary 30-minute conversation, contact details.",
+    "speakerNotes": ""
+  }
+]

@@ -6,19 +6,20 @@
   --color-bg: var(--slide-bg);
   --color-text: var(--slide-text);
   --color-muted: var(--slide-muted);
+  --color-border: var(--slide-border);
   --font-display: var(--font-display-family);
   --font-body: var(--font-body-family);
 }
 
 :root {
-  /* Replace these with brand colors */
-  --slide-primary: #4f46e5;
-  --slide-accent: #06b6d4;
-  --slide-bg: #f8fafc;
-  --slide-text: #0f172a;
-  --slide-muted: #64748b;
-  --font-display-family: "Inter", system-ui, sans-serif;
-  --font-body-family: "Inter", system-ui, sans-serif;
+  --slide-primary: #191d34;
+  --slide-accent: #6f54de;
+  --slide-bg: #fcfbfd;
+  --slide-text: #191d34;
+  --slide-muted: #636883;
+  --slide-border: #e5e3ec;
+  --font-display-family: "Playfair Display", "Iowan Old Style", "Palatino", serif;
+  --font-body-family: "Inter", "Helvetica Neue", Arial, sans-serif;
   color-scheme: light;
 }
 
@@ -33,6 +34,9 @@ body,
 body {
   background: var(--slide-bg);
   color: var(--slide-text);
+  font-family: var(--font-body-family);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 .slide {
