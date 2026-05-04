@@ -13,36 +13,20 @@ export default function Engagements() {
           Right-sized engagements when comprehensive isn&rsquo;t the right fit.
         </h2>
 
-        <div className="grid grid-cols-4 gap-[2vw]">
-          <div className="flex flex-col gap-[1.4vh] bg-white border border-border p-[2vw] h-[36vh]">
-            <span className="font-body text-[0.9vw] tracking-[0.3em] uppercase text-accent">Hourly</span>
-            <span className="font-display text-[1.9vw] leading-tight text-primary">Ad-hoc Consultations</span>
-            <p className="font-body font-light text-[1.4vw] leading-snug text-muted text-pretty mt-[0.5vh]">
-              A focused conversation on a specific question — when a second opinion is enough.
+        <div className="grid grid-cols-2 gap-[3vw]">
+          <div className="flex flex-col gap-[1.6vh] bg-white border border-border p-[2.6vw] h-[38vh]">
+            <span className="font-body text-[0.95vw] tracking-[0.3em] uppercase text-accent">Hourly</span>
+            <span className="font-display text-[2.2vw] leading-tight text-primary">Ad-hoc Consultations</span>
+            <p className="font-body font-light text-[1.5vw] leading-snug text-muted text-pretty mt-[0.5vh]">
+              A focused conversation on a specific question — when a second opinion is what you need, without committing to an ongoing engagement.
             </p>
           </div>
 
-          <div className="flex flex-col gap-[1.4vh] bg-white border border-border p-[2vw] h-[36vh]">
-            <span className="font-body text-[0.9vw] tracking-[0.3em] uppercase text-accent">Defined scope</span>
-            <span className="font-display text-[1.9vw] leading-tight text-primary">Project-Based</span>
-            <p className="font-body font-light text-[1.4vw] leading-snug text-muted text-pretty mt-[0.5vh]">
-              A fixed-fee engagement around one decision: a move, a sale, a windfall, an offer.
-            </p>
-          </div>
-
-          <div className="flex flex-col gap-[1.4vh] bg-white border border-border p-[2vw] h-[36vh]">
-            <span className="font-body text-[0.9vw] tracking-[0.3em] uppercase text-accent">Early career</span>
-            <span className="font-display text-[1.9vw] leading-tight text-primary">Wealth Foundations</span>
-            <p className="font-body font-light text-[1.4vw] leading-snug text-muted text-pretty mt-[0.5vh]">
-              Build the cash flow, savings, and protection habits that compound for the next thirty years.
-            </p>
-          </div>
-
-          <div className="flex flex-col gap-[1.4vh] bg-white border border-border p-[2vw] h-[36vh]">
-            <span className="font-body text-[0.9vw] tracking-[0.3em] uppercase text-accent">Pre &amp; post</span>
-            <span className="font-display text-[1.9vw] leading-tight text-primary">Retirement Planning</span>
-            <p className="font-body font-light text-[1.4vw] leading-snug text-muted text-pretty mt-[0.5vh]">
-              Income, drawdowns, government benefits, and tax — sequenced for the next chapter.
+          <div className="flex flex-col gap-[1.6vh] bg-white border border-border p-[2.6vw] h-[38vh]">
+            <span className="font-body text-[0.95vw] tracking-[0.3em] uppercase text-accent">Pre &amp; post</span>
+            <span className="font-display text-[2.2vw] leading-tight text-primary">Retirement Planning</span>
+            <p className="font-body font-light text-[1.5vw] leading-snug text-muted text-pretty mt-[0.5vh]">
+              Income, drawdowns, government benefits, and tax — sequenced for the next chapter so the numbers and the lifestyle line up.
             </p>
           </div>
         </div>

@@ -59,27 +59,6 @@ export default function Pricing() {
             </div>
           </div>
 
-          <div className="grid grid-cols-[1.5fr_1.6fr_1fr] gap-x-[2.5vw] items-baseline border-t border-border py-[1.6vh]">
-            <span className="font-display text-[1.85vw] leading-tight text-primary">Project-Based Planning</span>
-            <span className="font-body font-light text-[1.35vw] text-muted leading-snug">
-              Flat project fee, scoped before we start
-            </span>
-            <div className="flex flex-col gap-[0.2vh] text-right">
-              <span className="font-display text-[1.55vw] text-primary leading-tight">From $2,500 / project</span>
-            </div>
-          </div>
-
-          <div className="grid grid-cols-[1.5fr_1.6fr_1fr] gap-x-[2.5vw] items-baseline border-t border-border py-[1.6vh]">
-            <span className="font-display text-[1.85vw] leading-tight text-primary">Wealth Foundations</span>
-            <span className="font-body font-light text-[1.35vw] text-muted leading-snug">
-              Flat fee, four installments over 12 weeks
-            </span>
-            <div className="flex flex-col gap-[0.2vh] text-right">
-              <span className="font-display text-[1.55vw] text-primary leading-tight">$2,700 individual</span>
-              <span className="font-body text-[1.1vw] text-muted">$3,600 couple</span>
-            </div>
-          </div>
-
           <div className="grid grid-cols-[1.5fr_1.6fr_1fr] gap-x-[2.5vw] items-baseline border-t border-b border-border py-[1.6vh]">
             <span className="font-display text-[1.85vw] leading-tight text-primary">Retirement Planning</span>
             <span className="font-body font-light text-[1.35vw] text-muted leading-snug">
