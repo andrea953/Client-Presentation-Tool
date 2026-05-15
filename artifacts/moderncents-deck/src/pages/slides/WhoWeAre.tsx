@@ -37,7 +37,7 @@ export default function WhoWeAre() {
 
       <div className="flex items-center justify-between text-[0.9vw] text-muted font-body tracking-wide">
         <span>moderncents.ca</span>
-        <span>02 / 09</span>
+        <span>02 / 10</span>
       </div>
     </div>
   );

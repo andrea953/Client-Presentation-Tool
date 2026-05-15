@@ -62,7 +62,7 @@ export default function Comprehensive() {
 
         <div className="flex items-center justify-between text-[0.9vw] text-muted font-body tracking-wide">
           <span>moderncents.ca</span>
-          <span>05 / 09</span>
+          <span>05 / 10</span>
         </div>
       </div>
     </div>

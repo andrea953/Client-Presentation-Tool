@@ -34,7 +34,7 @@ export default function Engagements() {
 
       <div className="flex items-center justify-between text-[0.9vw] text-muted font-body tracking-wide">
         <span>moderncents.ca</span>
-        <span>06 / 09</span>
+        <span>06 / 10</span>
       </div>
     </div>
   );

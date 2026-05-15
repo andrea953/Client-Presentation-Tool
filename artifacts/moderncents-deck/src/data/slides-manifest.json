@@ -64,8 +64,16 @@
     "speakerNotes": ""
   },
   {
-    "id": "a5ecaa7f-e23b-42ef-819a-9ca50461bc72",
+    "id": "b3d4f9c2-6a1e-4b87-9e2d-7f4c8a1d9e5b",
     "position": 9,
+    "filepath": "src/pages/slides/FeesAndOnboarding.tsx",
+    "title": "Fees & onboarding",
+    "description": "Starting fees across the five engagement types and a four-step onboarding flow from discovery call to kickoff.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a5ecaa7f-e23b-42ef-819a-9ca50461bc72",
+    "position": 10,
     "filepath": "src/pages/slides/LetsTalk.tsx",
     "title": "Let's talk",
     "description": "Closing call to action: complimentary 30-minute conversation, contact details.",
