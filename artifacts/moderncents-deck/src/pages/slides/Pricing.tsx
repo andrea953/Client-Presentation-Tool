@@ -45,7 +45,7 @@ export default function Pricing() {
             <div className="flex flex-col gap-[0.4vh] text-right">
               <span className="font-display text-[1.45vw] text-primary leading-tight">$3,000 individual &middot; $4,500 couple onboarding</span>
               <span className="font-body text-[1.05vw] text-muted leading-snug">
-                + $175 / mo individual &middot; $250 / mo couple &middot; $330 / mo cross-border or corporate
+                + $199 / mo individual &middot; $250 / mo couple &middot; $330 / mo cross-border or corporate
               </span>
             </div>
           </div>
