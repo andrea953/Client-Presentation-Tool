@@ -42,9 +42,11 @@ export default function Pricing() {
             <span className="font-body font-light text-[1.35vw] text-muted leading-snug">
               One-time onboarding plus monthly retainer
             </span>
-            <div className="flex flex-col gap-[0.2vh] text-right">
-              <span className="font-display text-[1.55vw] text-primary leading-tight">From $3,000 onboarding</span>
-              <span className="font-body text-[1.1vw] text-muted">+ $250–$330 / month</span>
+            <div className="flex flex-col gap-[0.4vh] text-right">
+              <span className="font-display text-[1.45vw] text-primary leading-tight">$3,000 individual &middot; $4,500 couple onboarding</span>
+              <span className="font-body text-[1.05vw] text-muted leading-snug">
+                + $175 / mo individual &middot; $250 / mo couple &middot; $330 / mo cross-border or corporate
+              </span>
             </div>
           </div>
 
