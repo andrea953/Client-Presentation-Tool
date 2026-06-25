@@ -64,11 +64,11 @@ export default function Pricing() {
           <div className="grid grid-cols-[1.5fr_1.6fr_1fr] gap-x-[2.5vw] items-baseline border-t border-b border-border py-[1.6vh]">
             <span className="font-display text-[1.85vw] leading-tight text-primary">Retirement Planning</span>
             <span className="font-body font-light text-[1.35vw] text-muted leading-snug">
-              Annual flat fee, product-independent
+              Flat fee, product-independent
             </span>
             <div className="flex flex-col gap-[0.2vh] text-right">
-              <span className="font-display text-[1.55vw] text-primary leading-tight">From $3,500 / yr individual</span>
-              <span className="font-body text-[1.1vw] text-muted">From $4,500 / yr couple</span>
+              <span className="font-display text-[1.55vw] text-primary leading-tight">From $3,500 / project individual</span>
+              <span className="font-body text-[1.1vw] text-muted">From $4,500 / project couple</span>
             </div>
           </div>
         </div>

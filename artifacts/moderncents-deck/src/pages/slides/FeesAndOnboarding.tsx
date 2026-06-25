@@ -84,11 +84,11 @@ export default function FeesAndOnboarding() {
           <div className="grid grid-cols-[1.4fr_1.7fr_1fr] gap-x-[2.5vw] items-baseline border-t border-b border-border py-[1.1vh]">
             <span className="font-display text-[1.5vw] leading-tight text-primary">Retirement Planning</span>
             <span className="font-body font-light text-[1.15vw] text-muted leading-snug">
-              Annual flat fee, product-independent
+              Flat fee, product-independent
             </span>
             <div className="flex flex-col text-right">
-              <span className="font-display text-[1.3vw] text-primary leading-tight">From $3,500 / yr individual</span>
-              <span className="font-body text-[0.95vw] text-muted">From $4,500 / yr couple</span>
+              <span className="font-display text-[1.3vw] text-primary leading-tight">From $3,500 / project individual</span>
+              <span className="font-body text-[0.95vw] text-muted">From $4,500 / project couple</span>
             </div>
           </div>
         </div>
