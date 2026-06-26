@@ -11,7 +11,7 @@ export default function LetsTalk() {
       <div className="grid grid-cols-12 gap-[3vw] items-end">
         <div className="col-span-8 flex flex-col gap-[3vh]">
           <div className="font-body text-[1.1vw] tracking-[0.3em] uppercase text-accent">
-            Next step — complimentary
+            What decisions you&rsquo;re weighing
           </div>
           <h2 className="font-display font-medium text-[6vw] leading-[0.98] tracking-tight text-primary text-balance">
             A 30-minute conversation, no obligation.
