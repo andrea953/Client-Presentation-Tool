@@ -43,19 +43,8 @@ export default function FeesAndOnboarding() {
               Onboarding fee + ongoing monthly retainer
             </span>
             <div className="flex flex-col text-right">
-              <span className="font-display text-[1.3vw] text-primary leading-tight">From $3,000 onboarding</span>
-              <span className="font-body text-[0.95vw] text-muted">+ $250–$330 / month</span>
-            </div>
-          </div>
-
-          <div className="grid grid-cols-[1.4fr_1.7fr_1fr] gap-x-[2.5vw] items-baseline border-t border-border py-[1.1vh]">
-            <span className="font-display text-[1.5vw] leading-tight text-primary">Project-Based Planning</span>
-            <span className="font-body font-light text-[1.15vw] text-muted leading-snug">
-              One-time flat fee, scoped to a defined goal
-            </span>
-            <div className="flex flex-col text-right">
-              <span className="font-display text-[1.3vw] text-primary leading-tight">From $2,500 / project</span>
-              <span className="font-body text-[0.95vw] text-muted">Quoted after scoping call</span>
+              <span className="font-display text-[1.3vw] text-primary leading-tight">$3,000 individual &middot; $4,500 couple onboarding</span>
+              <span className="font-body text-[0.95vw] text-muted">+ $199 / mo individual &middot; $250 / mo couple &middot; $330 / mo cross-border or corporate</span>
             </div>
           </div>
 
@@ -67,17 +56,6 @@ export default function FeesAndOnboarding() {
             <div className="flex flex-col text-right">
               <span className="font-display text-[1.3vw] text-primary leading-tight">$375 / hr domestic</span>
               <span className="font-body text-[0.95vw] text-muted">$575 / hr cross-border</span>
-            </div>
-          </div>
-
-          <div className="grid grid-cols-[1.4fr_1.7fr_1fr] gap-x-[2.5vw] items-baseline border-t border-border py-[1.1vh]">
-            <span className="font-display text-[1.5vw] leading-tight text-primary">Wealth Foundations</span>
-            <span className="font-body font-light text-[1.15vw] text-muted leading-snug">
-              Starter engagement for early-career households
-            </span>
-            <div className="flex flex-col text-right">
-              <span className="font-display text-[1.3vw] text-primary leading-tight">From $1,800 flat</span>
-              <span className="font-body text-[0.95vw] text-muted">Single deliverable</span>
             </div>
           </div>
 
