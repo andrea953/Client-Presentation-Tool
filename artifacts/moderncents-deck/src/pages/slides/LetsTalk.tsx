@@ -32,8 +32,8 @@ export default function LetsTalk() {
             <span className="font-display text-[2vw] leading-tight text-primary">moderncents.ca</span>
           </div>
           <div className="flex flex-col gap-[0.4vh]">
-            <span className="font-body text-[0.95vw] tracking-[0.3em] uppercase text-muted">Based in</span>
-            <span className="font-display text-[2vw] leading-tight text-primary">Toronto, Canada</span>
+            <span className="font-body text-[0.95vw] tracking-[0.3em] uppercase text-muted">Where we work</span>
+            <span className="font-display text-[2vw] leading-tight text-primary">Virtually across Canada</span>
           </div>
         </div>
       </div>
