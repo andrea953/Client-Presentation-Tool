@@ -67,8 +67,8 @@
     "id": "b3d4f9c2-6a1e-4b87-9e2d-7f4c8a1d9e5b",
     "position": 9,
     "filepath": "src/pages/slides/FeesAndOnboarding.tsx",
-    "title": "Fees & onboarding",
-    "description": "Starting fees across the five engagement types and a four-step onboarding flow from discovery call to kickoff.",
+    "title": "What to expect",
+    "description": "Four-step onboarding flow from discovery call to kickoff, with fees referenced back to the Pricing slide.",
     "speakerNotes": ""
   },
   {
