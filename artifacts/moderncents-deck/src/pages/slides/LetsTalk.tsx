@@ -18,7 +18,7 @@ export default function LetsTalk() {
           </h2>
           <div className="h-[1px] w-[14vw] bg-accent" />
           <p className="font-body font-light text-[1.7vw] leading-snug text-muted text-pretty max-w-[52vw]">
-            Tell us where you are, what you&rsquo;re weighing, and what a good outcome looks like. We&rsquo;ll tell you honestly whether Modern Cents is the right fit.
+            Tell us where you are, what&rsquo;s on your mind, and what a good outcome looks like. We&rsquo;ll tell you honestly whether Modern Cents is the right fit.
           </p>
         </div>
 
