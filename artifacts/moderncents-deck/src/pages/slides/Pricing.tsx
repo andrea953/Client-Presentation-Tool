@@ -40,11 +40,14 @@ export default function Pricing() {
               <span className="font-body text-[0.95vw] tracking-[0.22em] uppercase text-accent">Flagship</span>
             </div>
             <span className="font-body font-light text-[1.35vw] text-muted leading-snug">
-              One-time onboarding plus monthly retainer
+              One-time plan development fee + monthly retainer from month two
             </span>
             <div className="flex flex-col gap-[0.4vh] text-right">
-              <span className="font-display text-[1.45vw] text-primary leading-tight">$3,000 individual &middot; $4,500 couple onboarding</span>
-              <span className="font-body text-[1.05vw] text-muted leading-snug">
+              <span className="font-display text-[1.3vw] text-primary leading-tight">Domestic &mdash; $3,000 individual &middot; $4,500 couple</span>
+              <span className="font-body text-[0.98vw] text-muted leading-snug">
+                Cross-border &mdash; $4,500 individual &middot; $6,000 couple
+              </span>
+              <span className="font-body text-[0.98vw] text-muted leading-snug">
                 + $199 / mo individual &middot; $250 / mo couple &middot; $330 / mo cross-border or corporate
               </span>
             </div>
@@ -67,14 +70,14 @@ export default function Pricing() {
               Flat project fee, product-independent
             </span>
             <div className="flex flex-col gap-[0.2vh] text-right">
-              <span className="font-display text-[1.55vw] text-primary leading-tight">From $3,500 individual</span>
-              <span className="font-body text-[1.1vw] text-muted">From $4,500 couple</span>
+              <span className="font-display text-[1.3vw] text-primary leading-tight">Domestic &mdash; from $3,500 individual &middot; $4,500 couple</span>
+              <span className="font-body text-[0.98vw] text-muted">Cross-border &mdash; $4,500 individual &middot; $5,500 couple</span>
             </div>
           </div>
         </div>
 
         <p className="font-body font-light text-[1.05vw] leading-snug text-muted italic">
-          All fees in CAD. Exact fee depends on scope and is quoted in writing before you commit.
+          All fees in CAD. Cross-border refers to a U.S. citizen or Green Card holder. Exact fee depends on scope and is quoted in writing before you commit.
         </p>
       </div>
 
