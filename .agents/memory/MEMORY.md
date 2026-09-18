@@ -1,0 +1,1 @@
+- [Pnpm audit override conflicts](pnpm-audit-overrides.md) — verify existing broad overrides after audit fixes; an older exact pin can silently defeat generated patched ranges.
