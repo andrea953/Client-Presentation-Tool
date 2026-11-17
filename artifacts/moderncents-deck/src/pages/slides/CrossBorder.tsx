@@ -14,11 +14,11 @@ export default function CrossBorder() {
             Canada &middot; United States
           </div>
           <h2 className="font-display font-medium text-[4vw] leading-[1.02] tracking-tight text-primary text-balance">
-            Planning that respects two tax codes at once.
+            Cross-border expertise within your ongoing plan.
           </h2>
           <div className="h-[1px] w-[8vw] bg-accent" />
           <p className="font-body font-light text-[1.45vw] leading-relaxed text-muted text-pretty">
-            For households moving between Canada and the US — or living a life that straddles both — Modern Cents builds plans that hold up on both sides of the border.
+            For Canadian residents with U.S. ties, assets, or plans to move. Cross-border work is integrated into the ongoing partnership, not a standalone engagement.
           </p>
         </div>
 
@@ -26,25 +26,25 @@ export default function CrossBorder() {
           <div className="flex flex-col gap-[1vh] border-t border-border pt-[1.8vh]">
             <span className="font-display text-[1.9vw] leading-tight text-primary">Retirement accounts</span>
             <p className="font-body font-light text-[1.35vw] leading-snug text-muted text-pretty">
-              RRSPs, 401(k)s, and IRAs handled as one coherent retirement picture.
+              Coordinate Canadian and U.S. accounts, pensions, and retirement decisions.
             </p>
           </div>
           <div className="flex flex-col gap-[1vh] border-t border-border pt-[1.8vh]">
             <span className="font-display text-[1.9vw] leading-tight text-primary">Government benefits</span>
             <p className="font-body font-light text-[1.35vw] leading-snug text-muted text-pretty">
-              CPP, OAS, and US Social Security coordinated to maximize lifetime income.
+              Consider CPP, OAS, and U.S. Social Security timing.
             </p>
           </div>
           <div className="flex flex-col gap-[1vh] border-t border-border pt-[1.8vh]">
             <span className="font-display text-[1.9vw] leading-tight text-primary">Account transitions</span>
             <p className="font-body font-light text-[1.35vw] leading-snug text-muted text-pretty">
-              401(k) to RRSP transfers and post-move account decisions, done correctly.
+              Plan for a move to or from the U.S. while you remain a Canadian resident.
             </p>
           </div>
           <div className="flex flex-col gap-[1vh] border-t border-border pt-[1.8vh]">
             <span className="font-display text-[1.9vw] leading-tight text-primary">Investing across borders</span>
             <p className="font-body font-light text-[1.35vw] leading-snug text-muted text-pretty">
-              Where to hold what, and how to keep the tax treatment clean over time.
+              Coordinate with cross-border CPAs and estate lawyers; we do not prepare tax returns or draft legal documents.
             </p>
           </div>
         </div>

@@ -27,14 +27,14 @@ export default function Pricing() {
 
         <div className="h-[1px] w-full bg-border" />
 
-        <div className="grid grid-cols-[1.5fr_1.6fr_1fr] gap-x-[2.5vw] text-[0.9vw] tracking-[0.28em] uppercase text-muted">
+        <div className="grid grid-cols-[1.25fr_1.15fr_1.6fr] gap-x-[2.5vw] text-[0.9vw] tracking-[0.28em] uppercase text-muted">
           <span>Engagement</span>
           <span>How it&rsquo;s priced</span>
           <span className="text-right">Starting fees</span>
         </div>
 
         <div className="flex flex-col">
-          <div className="grid grid-cols-[1.5fr_1.6fr_1fr] gap-x-[2.5vw] items-baseline border-t border-border py-[1.6vh]">
+          <div className="grid grid-cols-[1.25fr_1.15fr_1.6fr] gap-x-[2.5vw] items-baseline border-t border-border py-[1.6vh]">
             <div className="flex flex-col gap-[0.3vh]">
               <span className="font-display text-[1.85vw] leading-tight text-primary">Comprehensive Planning</span>
               <span className="font-body text-[0.95vw] tracking-[0.22em] uppercase text-accent">Flagship</span>
@@ -43,41 +43,44 @@ export default function Pricing() {
               One-time plan development fee + monthly retainer from month two
             </span>
             <div className="flex flex-col gap-[0.4vh] text-right">
-              <span className="font-display text-[1.3vw] text-primary leading-tight">Domestic &mdash; $3,000 individual &middot; $4,500 couple</span>
-              <span className="font-body text-[0.98vw] text-muted leading-snug">
-                Cross-border &mdash; $4,500 individual &middot; $6,000 couple
+              <span className="font-display text-[1.2vw] text-primary leading-tight">Domestic &middot; individual $3,000 &middot; couple $4,500</span>
+              <span className="font-body text-[1.2vw] text-muted leading-snug">
+                Cross-border &middot; individual $4,500 &middot; couple $6,000
               </span>
-              <span className="font-body text-[0.98vw] text-muted leading-snug">
-                + $199 / mo individual &middot; $250 / mo couple &middot; $330 / mo cross-border or corporate
+              <span className="font-body text-[1.2vw] text-muted leading-snug">
+                Retainer &middot; $199/mo individual &middot; $250/mo couple
+              </span>
+              <span className="font-body text-[1.2vw] text-muted leading-snug">
+                $330/mo cross-border or corporate complexity
               </span>
             </div>
           </div>
 
-          <div className="grid grid-cols-[1.5fr_1.6fr_1fr] gap-x-[2.5vw] items-baseline border-t border-border py-[1.6vh]">
+          <div className="grid grid-cols-[1.25fr_1.15fr_1.6fr] gap-x-[2.5vw] items-baseline border-t border-border py-[1.6vh]">
             <span className="font-display text-[1.85vw] leading-tight text-primary">Ad-hoc Consultations</span>
             <span className="font-body font-light text-[1.35vw] text-muted leading-snug">
-              Flat hourly fee, paid in advance
+              One focused hour; flat fee paid in advance
             </span>
             <div className="flex flex-col gap-[0.2vh] text-right">
               <span className="font-display text-[1.55vw] text-primary leading-tight">$375 / hour domestic</span>
-              <span className="font-body text-[1.1vw] text-muted">$575 / hour cross-border</span>
+              <span className="font-body text-[1.2vw] text-muted">$575 / hour cross-border</span>
             </div>
           </div>
 
-          <div className="grid grid-cols-[1.5fr_1.6fr_1fr] gap-x-[2.5vw] items-baseline border-t border-b border-border py-[1.6vh]">
+          <div className="grid grid-cols-[1.25fr_1.15fr_1.6fr] gap-x-[2.5vw] items-baseline border-t border-b border-border py-[1.6vh]">
             <span className="font-display text-[1.85vw] leading-tight text-primary">Retirement Planning</span>
             <span className="font-body font-light text-[1.35vw] text-muted leading-snug">
               Flat project fee, product-independent
             </span>
             <div className="flex flex-col gap-[0.2vh] text-right">
-              <span className="font-display text-[1.3vw] text-primary leading-tight">Domestic &mdash; from $3,500 individual &middot; $4,500 couple</span>
-              <span className="font-body text-[0.98vw] text-muted">Cross-border &mdash; $4,500 individual &middot; $5,500 couple</span>
+              <span className="font-display text-[1.2vw] text-primary leading-tight">Domestic &middot; from $3,500 individual &middot; $4,500 couple</span>
+              <span className="font-body text-[1.2vw] text-muted">Cross-border &middot; $4,500 individual &middot; $5,500 couple</span>
             </div>
           </div>
         </div>
 
         <p className="font-body font-light text-[1.05vw] leading-snug text-muted italic">
-          All fees in CAD. Cross-border refers to a U.S. citizen or Green Card holder. Exact fee depends on scope and is quoted in writing before you commit.
+          All fees in CAD. Cross-border planning is for Canadian residents; monthly retainers are subject to inflationary increases. Exact fee depends on scope.
         </p>
       </div>
 

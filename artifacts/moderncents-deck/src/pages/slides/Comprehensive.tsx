@@ -13,7 +13,7 @@ export default function Comprehensive() {
         />
         <div className="absolute top-[6vh] left-[3vw] flex items-center gap-[0.8vw] text-bg">
           <div className="w-[1.2vw] h-[1.2vw] rounded-full bg-accent" />
-          <span className="font-body text-[0.95vw] tracking-[0.32em] uppercase">Flagship engagement</span>
+          <span className="font-body text-[0.95vw] tracking-[0.32em] uppercase">Ongoing planning partnership</span>
         </div>
       </div>
 
@@ -28,34 +28,34 @@ export default function Comprehensive() {
             Comprehensive Planning
           </div>
           <h2 className="font-display font-medium text-[4.4vw] leading-[1.02] tracking-tight text-primary text-balance">
-            One ongoing relationship across every part of your finances.
+            Comprehensive Planning, built around your life as it changes.
           </h2>
           <div className="h-[1px] w-[10vw] bg-accent" />
 
           <div className="grid grid-cols-2 gap-x-[2vw] gap-y-[1.6vh] mt-[1vh] max-w-[40vw]">
             <div className="flex items-baseline gap-[0.8vw]">
               <span className="text-accent font-display text-[1.5vw] leading-none">→</span>
-              <span className="font-body text-[1.5vw] text-primary">Cash flow &amp; tax</span>
+              <span className="font-body text-[1.5vw] text-primary">Financial management</span>
             </div>
             <div className="flex items-baseline gap-[0.8vw]">
               <span className="text-accent font-display text-[1.5vw] leading-none">→</span>
-              <span className="font-body text-[1.5vw] text-primary">Investments &amp; risk</span>
+              <span className="font-body text-[1.5vw] text-primary">Investment strategy</span>
             </div>
             <div className="flex items-baseline gap-[0.8vw]">
               <span className="text-accent font-display text-[1.5vw] leading-none">→</span>
-              <span className="font-body text-[1.5vw] text-primary">Retirement &amp; pensions</span>
+              <span className="font-body text-[1.5vw] text-primary">Tax planning</span>
             </div>
             <div className="flex items-baseline gap-[0.8vw]">
               <span className="text-accent font-display text-[1.5vw] leading-none">→</span>
-              <span className="font-body text-[1.5vw] text-primary">Estate &amp; insurance</span>
+              <span className="font-body text-[1.5vw] text-primary">Risk management</span>
             </div>
             <div className="flex items-baseline gap-[0.8vw]">
               <span className="text-accent font-display text-[1.5vw] leading-none">→</span>
-              <span className="font-body text-[1.5vw] text-primary">Cross-border coordination</span>
+              <span className="font-body text-[1.5vw] text-primary">Retirement planning</span>
             </div>
             <div className="flex items-baseline gap-[0.8vw]">
               <span className="text-accent font-display text-[1.5vw] leading-none">→</span>
-              <span className="font-body text-[1.5vw] text-primary">Ongoing reviews</span>
+              <span className="font-body text-[1.5vw] text-primary">Estate planning</span>
             </div>
           </div>
         </div>

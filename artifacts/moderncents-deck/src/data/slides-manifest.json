@@ -28,7 +28,7 @@
     "position": 4,
     "filepath": "src/pages/slides/Differentiators.tsx",
     "title": "What makes us different",
-    "description": "Four pillars: independence, adaptive delivery, cross-border depth, women-led.",
+    "description": "Four pillars: advice-only independence, an adaptable ongoing partnership, integrated cross-border expertise, and women-led planning.",
     "speakerNotes": ""
   },
   {
@@ -36,7 +36,7 @@
     "position": 5,
     "filepath": "src/pages/slides/Comprehensive.tsx",
     "title": "Comprehensive Planning",
-    "description": "Flagship engagement: ongoing relationship covering every area of household finances.",
+    "description": "Comprehensive Planning is an ongoing partnership spanning financial management, investments, tax, risk, retirement, and estate planning.",
     "speakerNotes": ""
   },
   {
@@ -44,7 +44,7 @@
     "position": 6,
     "filepath": "src/pages/slides/Engagements.tsx",
     "title": "Other engagements",
-    "description": "Ad-hoc consultations and retirement planning.",
+    "description": "Two focused options: a one-hour consultation and a coordinated one-time retirement planning project.",
     "speakerNotes": ""
   },
   {
@@ -60,7 +60,7 @@
     "position": 8,
     "filepath": "src/pages/slides/CrossBorder.tsx",
     "title": "Cross-border specialty",
-    "description": "Coordinated planning across RRSPs, 401(k)s, IRAs, CPP, OAS, and Social Security.",
+    "description": "Cross-border expertise integrated into ongoing planning for Canadian residents, with professional coordination and clear service boundaries.",
     "speakerNotes": ""
   },
   {
@@ -68,7 +68,7 @@
     "position": 9,
     "filepath": "src/pages/slides/FeesAndOnboarding.tsx",
     "title": "What to expect",
-    "description": "Four-step onboarding flow from discovery call to kickoff, with fees referenced back to the Pricing slide.",
+    "description": "Flexible path from discovery and Financial Audit to a tailored roadmap and ongoing partnership; priorities and pace are not fixed.",
     "speakerNotes": ""
   },
   {
