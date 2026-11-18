@@ -30,7 +30,7 @@ export default function Differentiators() {
               <span className="font-display text-[2vw] leading-tight text-primary">Adaptive delivery</span>
             </div>
             <p className="font-body font-light text-[1.5vw] leading-snug text-muted text-pretty">
-              An ongoing partnership adapts its priorities and pace to your life; retirement planning and consultations are available as focused alternatives.
+              An ongoing partnership adapts its priorities and pace as your life and financial picture change.
             </p>
           </div>
 

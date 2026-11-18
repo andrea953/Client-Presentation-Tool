@@ -8,25 +8,20 @@ export default function Engagements() {
         <Logo className="h-[2.4vw] w-[2.4vw] rounded-sm object-cover" />
       </div>
 
-      <div className="flex flex-col gap-[4vh]">
+      <div className="flex flex-col gap-[5vh]">
         <h2 className="font-display font-medium text-[3.6vw] leading-[1.05] tracking-tight text-primary text-balance max-w-[58vw]">
-          Two focused options beyond the ongoing partnership.
+          One focused option beyond the ongoing partnership.
         </h2>
 
-        <div className="grid grid-cols-2 gap-[3vw]">
-          <div className="flex flex-col gap-[1.6vh] bg-white border border-border p-[2.6vw] h-[38vh]">
-            <span className="font-body text-[0.95vw] tracking-[0.3em] uppercase text-accent">One focused hour</span>
-            <span className="font-display text-[2.2vw] leading-tight text-primary">Ad-hoc Consultations</span>
-            <p className="font-body font-light text-[1.5vw] leading-snug text-muted text-pretty mt-[0.5vh]">
-              Bring your questions and documents. Fee is paid in advance; no pre-meeting analysis and no obligation to continue.
-            </p>
+        <div className="grid grid-cols-12 items-center gap-[3vw] border-y border-border py-[5vh]">
+          <div className="col-span-3">
+            <span className="font-display text-[8vw] leading-none tracking-tight text-accent">01</span>
           </div>
-
-          <div className="flex flex-col gap-[1.6vh] bg-white border border-border p-[2.6vw] h-[38vh]">
-            <span className="font-body text-[0.95vw] tracking-[0.3em] uppercase text-accent">Coordinated one-time project</span>
-            <span className="font-display text-[2.2vw] leading-tight text-primary">Retirement Planning</span>
-            <p className="font-body font-light text-[1.5vw] leading-snug text-muted text-pretty mt-[0.5vh]">
-              Project retirement income, shape a withdrawal order, and consider CPP/OAS or U.S. Social Security timing.
+          <div className="col-span-9 flex flex-col gap-[1.6vh]">
+            <span className="font-body text-[0.95vw] tracking-[0.3em] uppercase text-accent">One focused hour</span>
+            <span className="font-display text-[2.8vw] leading-tight text-primary">Ad-hoc Consultations</span>
+            <p className="font-body font-light text-[1.7vw] leading-snug text-muted text-pretty mt-[0.5vh] max-w-[58vw]">
+              Bring your questions and documents. Fee is paid in advance; no pre-meeting analysis and no obligation to continue.
             </p>
           </div>
         </div>

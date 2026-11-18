@@ -36,7 +36,7 @@ export default function Pricing() {
         <div className="flex flex-col">
           <div className="grid grid-cols-[1.25fr_1.15fr_1.6fr] gap-x-[2.5vw] items-baseline border-t border-border py-[1.6vh]">
             <div className="flex flex-col gap-[0.3vh]">
-              <span className="font-display text-[1.85vw] leading-tight text-primary">Comprehensive Planning</span>
+              <span className="font-display text-[1.85vw] leading-tight text-primary">Ongoing Planning Partnership</span>
               <span className="font-body text-[0.95vw] tracking-[0.22em] uppercase text-accent">Flagship</span>
             </div>
             <span className="font-body font-light text-[1.35vw] text-muted leading-snug">
@@ -67,16 +67,6 @@ export default function Pricing() {
             </div>
           </div>
 
-          <div className="grid grid-cols-[1.25fr_1.15fr_1.6fr] gap-x-[2.5vw] items-baseline border-t border-b border-border py-[1.6vh]">
-            <span className="font-display text-[1.85vw] leading-tight text-primary">Retirement Planning</span>
-            <span className="font-body font-light text-[1.35vw] text-muted leading-snug">
-              Flat project fee, product-independent
-            </span>
-            <div className="flex flex-col gap-[0.2vh] text-right">
-              <span className="font-display text-[1.2vw] text-primary leading-tight">Domestic &middot; from $3,500 individual &middot; $4,500 couple</span>
-              <span className="font-body text-[1.2vw] text-muted">Cross-border &middot; $4,500 individual &middot; $5,500 couple</span>
-            </div>
-          </div>
         </div>
 
         <p className="font-body font-light text-[1.05vw] leading-snug text-muted italic">

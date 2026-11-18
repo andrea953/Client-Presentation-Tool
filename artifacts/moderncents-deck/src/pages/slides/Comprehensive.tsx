@@ -25,10 +25,10 @@ export default function Comprehensive() {
 
         <div className="flex flex-col gap-[3vh]">
           <div className="font-body text-[1.05vw] tracking-[0.3em] uppercase text-accent">
-            Comprehensive Planning
+            Ongoing Planning Partnership
           </div>
           <h2 className="font-display font-medium text-[4.4vw] leading-[1.02] tracking-tight text-primary text-balance">
-            Comprehensive Planning, built around your life as it changes.
+            One unified planning partnership, built around your life as it changes.
           </h2>
           <div className="h-[1px] w-[10vw] bg-accent" />
 

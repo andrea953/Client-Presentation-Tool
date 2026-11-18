@@ -35,8 +35,8 @@
     "id": "c8f1e907-57d6-469d-91c5-855b57595de6",
     "position": 5,
     "filepath": "src/pages/slides/Comprehensive.tsx",
-    "title": "Comprehensive Planning",
-    "description": "Comprehensive Planning is an ongoing partnership spanning financial management, investments, tax, risk, retirement, and estate planning.",
+    "title": "Ongoing Planning Partnership",
+    "description": "One unified planning partnership spanning financial management, investments, tax, risk, retirement, and estate planning.",
     "speakerNotes": ""
   },
   {
@@ -44,7 +44,7 @@
     "position": 6,
     "filepath": "src/pages/slides/Engagements.tsx",
     "title": "Other engagements",
-    "description": "Two focused options: a one-hour consultation and a coordinated one-time retirement planning project.",
+    "description": "Ad-hoc Consultations offer a focused one-hour option alongside the Ongoing Planning Partnership.",
     "speakerNotes": ""
   },
   {
@@ -52,7 +52,7 @@
     "position": 7,
     "filepath": "src/pages/slides/Pricing.tsx",
     "title": "Pricing",
-    "description": "Current domestic and cross-border starting fees for Comprehensive Planning, Retirement Planning, and Ad-hoc Consultations. Source: moderncents.ca/pricing.",
+    "description": "Current domestic and cross-border starting fees for the Ongoing Planning Partnership and Ad-hoc Consultations. Source: moderncents.ca/pricing.",
     "speakerNotes": ""
   },
   {
