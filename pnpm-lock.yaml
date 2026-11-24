@@ -70,8 +70,8 @@ catalogs:
       specifier: ^3.3.5
       version: 3.9.0
     zod:
-      specifier: ^3.25.76
-      version: 3.25.76
+      specifier: ^4.6.6
+      version: 4.6.7
 
 overrides:
   '@babel/core@<=7.29.0': '>=7.29.6'
@@ -440,7 +440,7 @@ importers:
         version: 7.3.6(@types/node@25.3.5)(jiti@2.6.1)(lightningcss@1.31.1)(tsx@4.23.13)(yaml@2.9.1)
       zod:
         specifier: 'catalog:'
-        version: 3.25.76
+        version: 4.6.7
 
   artifacts/moderncents-deck:
     devDependencies:
@@ -488,7 +488,7 @@ importers:
         version: 3.9.0(react@19.1.0)
       zod:
         specifier: 'catalog:'
-        version: 3.25.76
+        version: 4.6.7
 
   lib/api-client-react:
     dependencies:
@@ -500,13 +500,13 @@ importers:
     devDependencies:
       orval:
         specifier: '>=8.22.0'
-        version: 8.33.0(@tanstack/react-query@5.90.21(react@19.1.0))(prettier@3.8.1)(typescript@5.9.3)(zod@3.25.76)
+        version: 8.33.0(@tanstack/react-query@5.90.21(react@19.1.0))(prettier@3.8.1)(typescript@5.9.3)(zod@4.6.7)
 
   lib/api-zod:
     dependencies:
       zod:
         specifier: 'catalog:'
-        version: 3.25.76
+        version: 4.6.7
 
   lib/db:
     dependencies:
@@ -515,13 +515,13 @@ importers:
         version: 0.45.2(@types/pg@8.18.0)(pg@8.20.0)
       drizzle-zod:
         specifier: ^0.8.3
-        version: 0.8.3(drizzle-orm@0.45.2(@types/pg@8.18.0)(pg@8.20.0))(zod@3.25.76)
+        version: 0.8.3(drizzle-orm@0.45.2(@types/pg@8.18.0)(pg@8.20.0))(zod@4.6.7)
       pg:
         specifier: ^8.20.0
         version: 8.20.0
       zod:
         specifier: 'catalog:'
-        version: 3.25.76
+        version: 4.6.7
     devDependencies:
       '@types/node':
         specifier: 'catalog:'
@@ -3128,8 +3128,8 @@ packages:
     resolution: {integrity: sha512-CzhO+pFNo8ajLM2d2IW/R93ipy99LWjtwblvC1RsoSUMZgyLbYFr221TnSNT7GjGdYui6P459mw9JH/g/zW2ug==}
     engines: {node: '>=18'}
 
-  zod@3.25.76:
-    resolution: {integrity: sha512-gzUt/qt81nXsFGKIFcC3YnfEAx5NkunCfnDlvuBSSFS02bcXu4Lmea0AFIUwbLWxWPx3d9p8S5QoaujKcNQxcQ==}
+  zod@4.6.7:
+    resolution: {integrity: sha512-g8W2D2kU6a8untc053fX1uVBKzM7yqAxW/3zwk83+6RyF2+SKOuV+c0wBDhUwzV1PaGapmZH+rmcUzPf+3CGwg==}
 
 snapshots:
 
@@ -3404,10 +3404,10 @@ snapshots:
       - supports-color
       - typescript
 
-  '@orval/hono@8.33.0(typescript@5.9.3)(zod@3.25.76)':
+  '@orval/hono@8.33.0(typescript@5.9.3)(zod@4.6.7)':
     dependencies:
       '@orval/core': 8.33.0(typescript@5.9.3)
-      '@orval/zod': 8.33.0(typescript@5.9.3)(zod@3.25.76)
+      '@orval/zod': 8.33.0(typescript@5.9.3)(zod@4.6.7)
       fs-extra: 11.3.4
     optionalDependencies:
       typescript: 5.9.3
@@ -3416,11 +3416,11 @@ snapshots:
       - supports-color
       - zod
 
-  '@orval/mcp@8.33.0(typescript@5.9.3)(zod@3.25.76)':
+  '@orval/mcp@8.33.0(typescript@5.9.3)(zod@4.6.7)':
     dependencies:
       '@orval/core': 8.33.0(typescript@5.9.3)
       '@orval/fetch': 8.33.0(typescript@5.9.3)
-      '@orval/zod': 8.33.0(typescript@5.9.3)(zod@3.25.76)
+      '@orval/zod': 8.33.0(typescript@5.9.3)(zod@4.6.7)
     transitivePeerDependencies:
       - '@faker-js/faker'
       - supports-color
@@ -3474,13 +3474,13 @@ snapshots:
       - supports-color
       - typescript
 
-  '@orval/zod@8.33.0(typescript@5.9.3)(zod@3.25.76)':
+  '@orval/zod@8.33.0(typescript@5.9.3)(zod@4.6.7)':
     dependencies:
       '@orval/core': 8.33.0(typescript@5.9.3)
       jsesc: 3.1.0
       remeda: 2.33.6
     optionalDependencies:
-      zod: 3.25.76
+      zod: 4.6.7
     transitivePeerDependencies:
       - '@faker-js/faker'
       - supports-color
@@ -4640,7 +4640,7 @@ snapshots:
   drizzle-kit@0.31.10:
     dependencies:
       '@drizzle-team/brocli': 0.10.2
-      '@esbuild-kit/esm-loader': tsx@4.21.0
+      '@esbuild-kit/esm-loader': tsx@4.23.13
       esbuild: 0.28.2
       tsx: 4.21.0
 
@@ -4649,10 +4649,10 @@ snapshots:
       '@types/pg': 8.18.0
       pg: 8.20.0
 
-  drizzle-zod@0.8.3(drizzle-orm@0.45.2(@types/pg@8.18.0)(pg@8.20.0))(zod@3.25.76):
+  drizzle-zod@0.8.3(drizzle-orm@0.45.2(@types/pg@8.18.0)(pg@8.20.0))(zod@4.6.7):
     dependencies:
       drizzle-orm: 0.45.2(@types/pg@8.18.0)(pg@8.20.0)
-      zod: 3.25.76
+      zod: 4.6.7
 
   dunder-proto@1.0.1:
     dependencies:
@@ -5080,7 +5080,7 @@ snapshots:
     dependencies:
       wrappy: 1.0.2
 
-  orval@8.33.0(@tanstack/react-query@5.90.21(react@19.1.0))(prettier@3.8.1)(typescript@5.9.3)(zod@3.25.76):
+  orval@8.33.0(@tanstack/react-query@5.90.21(react@19.1.0))(prettier@3.8.1)(typescript@5.9.3)(zod@4.6.7):
     dependencies:
       '@commander-js/extra-typings': 15.0.0(commander@15.0.0)
       '@orval/angular': 8.33.0(typescript@5.9.3)
@@ -5088,14 +5088,14 @@ snapshots:
       '@orval/core': 8.33.0(typescript@5.9.3)
       '@orval/effect': 8.33.0(typescript@5.9.3)
       '@orval/fetch': 8.33.0(typescript@5.9.3)
-      '@orval/hono': 8.33.0(typescript@5.9.3)(zod@3.25.76)
-      '@orval/mcp': 8.33.0(typescript@5.9.3)(zod@3.25.76)
+      '@orval/hono': 8.33.0(typescript@5.9.3)(zod@4.6.7)
+      '@orval/mcp': 8.33.0(typescript@5.9.3)(zod@4.6.7)
       '@orval/mock': 8.33.0(typescript@5.9.3)
       '@orval/pinia-colada': 8.33.0(typescript@5.9.3)
       '@orval/query': 8.33.0(@tanstack/react-query@5.90.21(react@19.1.0))(typescript@5.9.3)
       '@orval/solid-start': 8.33.0(typescript@5.9.3)
       '@orval/swr': 8.33.0(typescript@5.9.3)
-      '@orval/zod': 8.33.0(typescript@5.9.3)(zod@3.25.76)
+      '@orval/zod': 8.33.0(typescript@5.9.3)(zod@4.6.7)
       '@scalar/json-magic': 0.12.20
       '@scalar/openapi-parser': 0.28.16
       '@scalar/openapi-types': 0.9.4
@@ -5701,4 +5701,4 @@ snapshots:
 
   yoctocolors@2.1.2: {}
 
-  zod@3.25.76: {}
+  zod@4.6.7: {}
